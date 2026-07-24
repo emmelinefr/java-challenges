@@ -1,4 +1,4 @@
-package beginner.Area;
+package beginner_beecrowd.Area;
 
 import java.util.Scanner;
 
