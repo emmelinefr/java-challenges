@@ -1,4 +1,4 @@
-package beginner.Average1;
+package beginner_beecrowd.Average1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package beginner.CalculoSimples;
+package beginner_beecrowd.CalculoSimples;
 
 import java.util.Scanner;
 

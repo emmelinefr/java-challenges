@@ -1,4 +1,4 @@
-package beginner.SalarioComBonus;
+package beginner_beecrowd.SalarioComBonus;
 
 import java.util.Scanner;
 

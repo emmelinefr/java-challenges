@@ -1,4 +1,4 @@
-package beginner.SimpleSum;
+package beginner_beecrowd.SimpleSum;
 
 import java.util.Scanner;
 

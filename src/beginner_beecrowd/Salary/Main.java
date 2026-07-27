@@ -1,4 +1,4 @@
-package beginner.Salary;
+package beginner_beecrowd.Salary;
 
 import java.util.Scanner;
 

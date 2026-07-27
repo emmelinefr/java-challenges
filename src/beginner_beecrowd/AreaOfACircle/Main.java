@@ -1,4 +1,4 @@
-package beginner.AreaOfACircle;
+package beginner_beecrowd.AreaOfACircle;
 
 import java.util.Scanner;
 

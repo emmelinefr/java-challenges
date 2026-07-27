@@ -1,4 +1,4 @@
-package beginner.Difference;
+package beginner_beecrowd.Difference;
 
 import java.util.Scanner;
 

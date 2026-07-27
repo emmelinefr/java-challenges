@@ -1,4 +1,4 @@
-package beginner.SimpleProduct;
+package beginner_beecrowd.SimpleProduct;
 
 import java.util.Scanner;
 

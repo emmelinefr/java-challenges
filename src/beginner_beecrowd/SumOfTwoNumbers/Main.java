@@ -1,4 +1,4 @@
-package beginner.SumOfTwoNumbers;
+package beginner_beecrowd.SumOfTwoNumbers;
 
 import java.util.Scanner;
 

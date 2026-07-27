@@ -1,4 +1,4 @@
-package beginner.Esfera;
+package beginner_beecrowd.Esfera;
 
 import java.util.Scanner;
 

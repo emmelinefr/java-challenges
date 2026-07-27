@@ -1,4 +1,4 @@
-package beginner.HelloWorld;
+package beginner_beecrowd.HelloWorld;
 
 public class Main {
     public static void main(String[] args) {
